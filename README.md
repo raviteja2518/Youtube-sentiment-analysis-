@@ -56,3 +56,8 @@ YOUTUBE_API_KEY=your_api_key_here
 4.Run the app
 
 streamlit run app.py
+
+Check out the video:-
+https://github.com/user-attachments/assets/259b1533-eed9-4f2a-b893-92e044d18776
+
+
